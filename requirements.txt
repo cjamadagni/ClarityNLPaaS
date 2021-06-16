@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 configparser==3.5.0
 Flask==1.0.2
-flask-cors==3.0.3
+flask-cors==3.0.9
 gunicorn==19.9.0
 idna==2.7
 itsdangerous==0.24
